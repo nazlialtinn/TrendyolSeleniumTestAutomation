@@ -1,0 +1,2 @@
+# TrendyolSeleniumTest
+ Trendyol test automation
